@@ -4,8 +4,8 @@ import android.content.ContentValues
 import android.content.Context
 import android.database.Cursor
 import android.database.sqlite.SQLiteDatabase
-import com.rifqi_19104031.modul10.db.DatabaseContract.QuoteColumns.Companion.TABLE_QUOTE
-import com.rifqi_19104031.modul10.db.DatabaseContract.QuoteColumns.Companion._ID
+import com.fauziyah_19104033.modul10.db.DatabaseContract.QuoteColumns.Companion.TABLE_QUOTE
+import com.fauziyah_19104033.modul10.db.DatabaseContract.QuoteColumns.Companion._ID
 import kotlinx.coroutines.internal.synchronized
 import java.sql.SQLException
 
