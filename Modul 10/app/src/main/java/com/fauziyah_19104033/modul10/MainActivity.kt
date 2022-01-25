@@ -1,4 +1,4 @@
-package com.rifqi_19104031.modul10
+package com.fauziyah_19104033.modul10
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
