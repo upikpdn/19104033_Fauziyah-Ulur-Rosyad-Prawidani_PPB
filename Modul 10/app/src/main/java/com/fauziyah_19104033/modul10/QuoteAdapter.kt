@@ -1,4 +1,4 @@
-package com.rifqi_19104031.modul10
+package com.fauziyah_19104033.modul10
 
 import android.app.Activity
 import android.content.Intent
@@ -6,11 +6,11 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import com.rifqi_19104031.modul10.data.Quote
-import com.rifqi_19104031.modul10.helper.EXTRA_POSITION
-import com.rifqi_19104031.modul10.helper.EXTRA_QUOTE
-import com.rifqi_19104031.modul10.helper.REQUEST_UPDATE
-import com.rifqi_19104031.modul10.helper.categoryList
+import com.fauziyah_19104033.modul10.data.Quote
+import com.fauziyah_19104033.modul10.helper.EXTRA_POSITION
+import com.fauziyah_19104033.modul10.helper.EXTRA_QUOTE
+import com.fauziyah_19104033.modul10.helper.REQUEST_UPDATE
+import com.fauziyah_19104033.modul10.helper.categoryList
 import java.util.*
 
 class QuoteAdapter(private val activity: Activity):
