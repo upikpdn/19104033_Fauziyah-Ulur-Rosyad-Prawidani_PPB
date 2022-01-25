@@ -1,4 +1,4 @@
-package com.rifqi_19104031.modul10
+package com.fauziyah_19104033.modul10
 
 import android.R
 import android.content.ContentValues
@@ -12,19 +12,19 @@ import android.widget.AdapterView
 import android.widget.ArrayAdapter
 import android.widget.Toast
 import androidx.appcompat.app.AlertDialog
-import com.rifqi_19104031.modul10.data.Quote
-import com.rifqi_19104031.modul10.db.DatabaseContract
-import com.rifqi_19104031.modul10.db.DatabaseContract.QuoteColumns.Companion.DATE
-import com.rifqi_19104031.modul10.db.QuoteHelper
-import com.rifqi_19104031.modul10.helper.ALERT_DIALOG_CLOSE
-import com.rifqi_19104031.modul10.helper.ALERT_DIALOG_DELETE
-import com.rifqi_19104031.modul10.helper.EXTRA_POSITION
-import com.rifqi_19104031.modul10.helper.EXTRA_QUOTE
-import com.rifqi_19104031.modul10.helper.RESULT_ADD
-import com.rifqi_19104031.modul10.helper.RESULT_DELETE
-import com.rifqi_19104031.modul10.helper.RESULT_UPDATE
-import com.rifqi_19104031.modul10.helper.categoryList
-import com.rifqi_19104031.modul10.helper.getCurrentDate
+import com.fauziyah_19104033.modul10.data.Quote
+import com.fauziyah_19104033.modul10.db.DatabaseContract
+import com.fauziyah_19104033.modul10.db.DatabaseContract.QuoteColumns.Companion.DATE
+import com.fauziyah_19104033..modul10.db.QuoteHelper
+import com.fauziyah_19104033.modul10.helper.ALERT_DIALOG_CLOSE
+import com.fauziyah_19104033.modul10.helper.ALERT_DIALOG_DELETE
+import com.fauziyah_19104033.modul10.helper.EXTRA_POSITION
+import com.fauziyah_19104033.modul10.helper.EXTRA_QUOTE
+import com.fauziyah_19104033.modul10.helper.RESULT_ADD
+import com.fauziyah_19104033.modul10.helper.RESULT_DELETE
+import com.fauziyah_19104033.modul10.helper.RESULT_UPDATE
+import com.fauziyah_19104033.modul10.helper.categoryList
+import com.fauziyah_19104033.modul10.helper.getCurrentDate
 
 class QuoteAddUpdateActivity : AppCompatActivity() {
     private var isEdit = false
