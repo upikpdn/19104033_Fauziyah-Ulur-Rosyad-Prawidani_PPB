@@ -3,7 +3,7 @@ package com.fauziyah_19104033.modul10.db
 import android.content.Context
 import android.database.sqlite.SQLiteDatabase
 import android.database.sqlite.SQLiteOpenHelper
-import com.rifqi_19104031.modul10.db.DatabaseContract.QuoteColumns.Companion.TABLE_QUOTE
+import com.fauziyah_19104033.modul10.db.DatabaseContract.QuoteColumns.Companion.TABLE_QUOTE
 
 internal class DatabaseHelper(context: Context) : SQLiteOpenHelper(context, DATABASE_NAME,
     null, DATABASE_VERSION) {
