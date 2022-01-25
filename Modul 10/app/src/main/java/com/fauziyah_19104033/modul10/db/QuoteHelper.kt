@@ -1,4 +1,4 @@
-package com.rifqi_19104031.modul10.db
+package com.fauziyah_19104033.modul10.db
 
 import android.content.ContentValues
 import android.content.Context
