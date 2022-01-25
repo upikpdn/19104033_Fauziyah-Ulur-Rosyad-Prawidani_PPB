@@ -6,7 +6,7 @@ import android.os.Bundle
 import android.provider.FontsContract.Columns.RESULT_CODE
 import android.text.TextUtils
 import android.widget.Toast
-import com.rifqi_19104031.modul9.databinding.ActivitySettingPreferenceBinding
+import com.fauziyah_19104033.modul9.databinding.ActivitySettingPreferenceBinding
 
 class SettingPreferenceActivity : AppCompatActivity() {
     companion object {
